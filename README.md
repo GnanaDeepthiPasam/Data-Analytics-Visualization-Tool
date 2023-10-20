@@ -24,3 +24,10 @@ Hence, I have integrated multiple technologies like Django, Pandas, Chart/S toge
 web application.
 
 ## Screenshots:
+![Screenshot (1245)](https://github.com/GnanaDeepthiPasam/Data-Analytics-Visualization-Tool/assets/148503787/382c74c8-8024-4346-a85a-dc13972abdd2)
+![Screenshot (1246)](https://github.com/GnanaDeepthiPasam/Data-Analytics-Visualization-Tool/assets/148503787/9bc879a0-2c06-4f0a-8250-897243dd5a0e)
+![Screenshot (1247)](https://github.com/GnanaDeepthiPasam/Data-Analytics-Visualization-Tool/assets/148503787/45c2998c-367b-4903-9a66-2cb145bab9ad)
+![Screenshot (1248)](https://github.com/GnanaDeepthiPasam/Data-Analytics-Visualization-Tool/assets/148503787/bbf17866-66b0-48b4-ab21-96906b34e39b)
+
+
+
